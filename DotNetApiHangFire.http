@@ -1,0 +1,6 @@
+@DotNetApiHangFire_HostAddress = http://localhost:5114
+
+GET {{DotNetApiHangFire_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
